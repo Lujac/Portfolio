@@ -1,0 +1,34 @@
+[{
+        "id": "gd",
+        "label": "Game Design"
+    },
+    {
+        "id" : "nd",
+        "label" : "Narrative Design"
+
+    },
+    {
+        "id": "ld",
+        "label": "Level Design"
+    },
+    {
+
+        "id" : "jam",
+        "label" : "GameJam"
+    },
+    {
+        "id" : "anls",
+        "label" : "Analyse de jeu"
+    },
+    {
+        "id": "web",
+        "label": "Projet Web"
+    },
+    {
+        "id" : "jds",
+        "label" : "Jeu de société"
+
+    }
+    
+        
+]

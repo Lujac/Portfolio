@@ -1,0 +1,329 @@
+  [
+    {
+        "name": "Lumiscape",
+        "tags": [
+            "nd",
+            "ld",
+            "gd"
+        ],
+        "img": "assets/img/Lumiscape.PNG",
+        "description": "Ce projet est mon projet de fin d'études que nous avons réalisé en groupe. Le thème sur lequel notre jeu devait porter était 'Plus fort ensemble'. Nous avons donc créé un jeu coopératif dont le pitch est le suivant : 'Dans une usine de jouets abandonnée, deux petites entités électriques appelées 'lumiciels' collaborent pour sortir du bâtiment et rejoindre le monde extérieur. Traversez les salles, résolvez les énigmes et suivez les circuits jusqu'à la sortie !'...",
+        "images": [
+            {
+                "url": "assets/img/Lumiscapemenu.jpg"
+            },
+            {
+                "url": "assets/img/Lumiscapeniveau.jpg"
+            }
+        ],
+        "buttons": [
+            {
+                "link": "https://youtu.be/B7LbfxAOlPY?t=3708",
+                "name": "Vidéo de présentation du projet"
+            }
+        ]
+    },
+    {
+        "name": "Do-Minot",
+        "tags": [
+            "ld",
+            "jam"
+        ],
+        "img": "assets/img/Do-minotlogo.png",
+        "description": "Do-Minot est un jeu vidéo de rythme réalisé dans le cadre de l'Unijam 2022. Le thème imposé était 'La distance rend toute chose infiniment plus précieuse', et le jeu a remporté le prix du public. Le but du jeu est simple : on incarne un père qui souhaite faire plaisir à sa petite fille, Dorothy, en réalisant des formes à l'aide de dominos...",
+        "images": [
+            {
+                "url": "assets/img/Do-Minot1.PNG"
+            },
+            {
+                "url": "assets/img/Do-Minot2.png"
+            },
+            {
+                "url": "assets/img/Do-minotlogo.png"
+            }
+        ],
+        "buttons": [
+            {
+                "link": "https://flegmatik-surf.itch.io/do-minot",
+                "name": "Voir la page Itch du jeu"
+            }
+        ]
+    },
+    {
+        "name": "Sick Game",
+        "tags": [
+            "gd",
+            "jam",
+            "jds"
+        ],
+        "img": "assets/img/sick.png",
+        "description": "Sick Game est un jeu de société réalisé lors de la GameJam LudoMaker, dont le thème était 'Plus on en a, plus c'est pire'. Le jeu est rempli d'humour noir. L'objectif est simple : collecter le moins de maladies possible et tenter de refiler ses maladies aux autres joueurs...",
+        "images": [
+            {
+                "url": "assets/img/Photo1.jpg"
+            },
+            {
+                "url": "assets/img/Photo2corrigé.jpg"
+            },
+            {
+                "url": "assets/img/Photo3.jpg"
+            },
+            {
+                "url": "assets/img/Photo4.PNG"
+            }
+        ],
+        "buttons": [
+            {
+                "link": "data/Regle.pdf",
+                "name": "Voir les règles"
+            }
+        ]
+    },
+    {
+        "name": "Ludomet",
+        "tags": [
+            "gd",
+            "ld",
+            "nd"
+        ],
+        "img": "assets/img/Ludomet.PNG",
+        "description": "Ludomet est un projet éducatif de jeu qui vise à enseigner aux enfants les différents métiers et leur interdépendance dans la société...",
+        "images": [
+            {
+                "url": "assets/img/Ludomet_Metaboucle.jpg"
+            },
+            {
+                "url": "assets/img/Ludomet_Jeu.PNG"
+            }
+        ],
+        "buttons": [
+            {
+                "link": "data/Ludomet_GDD.pdf",
+                "name": "Game Design Document"
+            },
+            {
+                "link": "data/Ludomet.pdf",
+                "name": "Présentation en slide du jeu"
+            }
+        ]
+    },
+    {
+        "name": "Escaryper",
+        "tags": [
+            "gd",
+            "ld"
+        ],
+        "img": "assets/img/Dedale.png",
+        "description": "Escaryper est un jeu vidéo mobile de réflexion et d'horreur de type escape room. Il a été réalisé dans le cadre de mon projet tutoré lors de mon DUT MMI...",
+        "images": [
+            {
+                "url": "assets/img/Escaryper_Menu.jpg"
+            },
+            {
+                "url": "assets/img/Escaryper_Salle1.jpg"
+            },
+            {
+                "url": "assets/img/Escaryper_Enigme.jpg"
+            },
+            {
+                "url": "assets/img/Escaryper_Clé.jpg"
+            },
+            {
+                "url": "assets/img/Escaryper_Salle2.jpg"
+            }
+        ],
+        "buttons": [
+            {
+                "link": "https://drive.google.com/file/d/1Pc5X3YQCm4SpeHzd9apa3jd6Kgmpy6qk/view?usp=sharing",
+                "name": "Télécharger le jeu"
+            }
+        ]
+    },
+    {
+        "name": "Critique Life is Strange",
+        "tags": [
+            "anls"
+        ],
+        "img": "assets/img/LIS.jpg",
+        "description": "Cette critique sur le jeu Life is Strange : True Colors est un travail que j'ai réalisé pour m'exercer sur l'exercice de la critique...",
+        "images": [
+            {
+                "url": "assets/img/DécorLIS.jpg"
+            }
+        ],
+        "buttons": [
+            {
+                "link": "data/Life_is_Strange.pdf",
+                "name": "Lire la critique"
+            }
+        ]
+    },
+    {
+        "name": "Analyse jeux de société",
+        "tags": [
+            "gd",
+            "anls",
+            "jds"
+        ],
+        "img": "assets/img/JDS.jpg",
+        "description": "J'ai effectué un travail d'analyse via le cahier d'analyse crée par Ludomaker, l'exercice était vraiment intéressant...",
+        "images": [
+            {
+                "url": "assets/img/Galérapagos.jpg"
+            },
+            {
+                "url": "assets/img/KingOfTokyo.png"
+            },
+            {
+                "url": "assets/img/Labyrinthe.jpg"
+            }
+        ],
+        "buttons": [
+            {
+                "link": "data/Cahier_Analyse_JDS_Kieran_mignon.pdf",
+                "name": "Lire l'analyse"
+            }
+        ]
+    },
+    {
+        "name": "Projet Level Design : GDV",
+        "tags": [
+            "ld",
+            "gd",
+            "nd"
+        ],
+        "img": "assets/img/VietnamWoman.jpg",
+        "description": "J'ai réalisé ce niveau lors d'un projet sur le moteur de jeu Unreal Engine 5.1.0 dans le cadre de ma Licence Professionnelle Métiers du Jeu Vidéo : Game Design / Level Design...",
+        "images": [
+            {
+                "url": "assets/img/BBD_Vietnam.jpg"
+            },
+            {
+                "url": "assets/img/Croquis_Vietnam.jpg"
+            },
+            {
+                "url": "assets/img/VietnamFrame01.PNG"
+            },
+            {
+                "url": "assets/img/VietnamFrame02.png"
+            }
+        ],
+        "buttons": [
+            {
+                "link": "https://www.youtube.com/watch?v=vyuZtJ-W480",
+                "name": "Walkthrough du niveau"
+            }
+        ]
+    },
+    {
+        "name": "World of Kieran",
+        "tags": [
+            "gd",
+            "ld",
+            "nd"
+        ],
+        "img": "assets/img/Worldofkieran.PNG",
+        "description": "Ce projet est mon premier jeu vidéo réalisé dans le cadre d'un travail demandant de créer un autoportrait...",
+        "images": [
+            {
+                "url": "assets/img/Worldofkieran.PNG"
+            },
+            {
+                "url": "assets/img/Worldofkieran2.PNG"
+            }
+        ],
+        "buttons": [
+            {
+                "link": "https://drive.google.com/file/d/1ss-xUKu28xKt2otUrIGxs-D0dueOwW-C/view?usp=sharing",
+                "name": "Télécharger le jeu"
+            }
+        ]
+    },
+    {
+        "name": "Mario World : Level Prototype",
+        "tags": [
+            "ld"
+        ],
+        "img": "assets/img/mario-cover.PNG",
+        "description": "Ce travail consiste en un projet de design de niveau pour le jeu Mario World...",
+        "images": [
+            {
+                "url": "assets/img/Mario.PNG"
+            }
+        ]
+    },
+    {
+        "name": "Pen Dut",
+        "tags": [
+            "gd",
+            "web"
+        ],
+        "img": "assets/img/Pendu.jpg",
+        "description": "J'ai réalisé ce pendu lors de mon DUT MMI. L'exercice demandé était de créer un pendu à l'aide du langage PHP...",
+        "images": [
+            {
+                "url": "assets/img/PenduMenu.PNG"
+            },
+            {
+                "url": "assets/img/PenduTheme.PNG"
+            },
+            {
+                "url": "assets/img/PenduJeu.PNG"
+            },
+            {
+                "url": "assets/img/PenduGagne.PNG"
+            }
+        ],
+        "buttons": [
+            {
+                "link": "https://penduterm1.webmmibutreims.fr/",
+                "name": "Jouer en ligne"
+            }
+        ]
+    }, 
+    {
+
+      "name" : "L4D2 : Prototype de Niveau",
+      "tags":[
+        "ld"
+      ],
+      "img" : "assets/img/Left4Dead2.jpg",
+      "description": "Ce prototype de niveau pour le jeu Left 4 Dead 2 a été réalisé dans le cadre d'un projet en groupe comprenant 3 niveaux différents. Mon niveau était le dernier et se déroulait dans un laboratoire. J'ai donc dû réaliser le bubble diagram et les croquis de ce niveau.",
+      "images": [
+        {
+          "url": "assets/img/Croquis_L4D2.jpg"
+        },
+        {
+          "url": "assets/img/Bubble-Diagram_L4D2.jpg"
+
+        }
+      ]
+      },
+    {
+      "name": "Site web 'La Crêpe au Sud' ",
+      "tags": [
+        "web"
+      ],
+      "img": "assets/img/Crêperie.PNG",
+      "description": "J'ai créé un site web pour le restaurant 'La Crêpe au Sud' situé à Nyons, dans le sud de la France, durant mon stage de DUT MMI. Ce stage a duré 3 mois et m'a permis de développer mes compétences en développement et en création de sites web. Le site comprend une page d'accueil, une page pour le menu du restaurant, une galerie d'images et une page de contact.",
+      "images": [
+        {
+          "url": "assets/img/Crêperie.PNG",
+          "legende": "Page d'accueil du site"
+        },
+        {
+          "url": "assets/img/Galeriesite.PNG",
+          "legende": "Galerie du site web"
+        },
+        {
+          "url": "assets/img/Crêperie2.PNG"
+        
+        }
+      ],
+      "buttons":[{
+        "link": "https://lacrepeausud.com",
+        "name": "Voir le site"
+      }]
+      
+    }
+]
