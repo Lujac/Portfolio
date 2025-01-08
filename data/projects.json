@@ -24,6 +24,28 @@
         ]
     },
     {
+        "name": "Waffle Escape",
+        "tags": [
+         "gd"
+        ],
+        "img": "assets/img/LogoWaffle.png",
+        "description": "Waffle Escape est un projet étudiant dans le cadre du master HIC MAJIC,  réalisé sur le moteur de jeu Unity, l'objectif était de réaliser un Flappy Bird like avec une mécanique supplémentaire, j'ai pu travailler sur le game design, le développement ainsi que le sound design du jeu",
+        "images": [
+            {
+                "url": "assets/img/Menu.png"
+            },
+            {
+                "url": "assets/img/Game.png"
+            }
+        ],
+        "buttons": [
+            {
+                "link": "https://likzi.itch.io/waffle-escape",
+                "name": "Voir la page Itch du jeu"
+            }
+        ]
+    },
+    {
         "name": "Do-Minot",
         "tags": [
             "ld",
