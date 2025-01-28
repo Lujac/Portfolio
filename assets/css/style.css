@@ -70,7 +70,7 @@ b {
 }
 
 a {
-  color: #e3f5b9;
+  color: #21231c;
   text-decoration: none;
   transition: 200ms ease-in-out color;
 }
@@ -464,7 +464,7 @@ main #projects #projects-list#projects-list {
 #project-modal .modal .tags .tag,
 #image-modal .modal .tags .tag {
   color: white;
-  background: #e3f5b9;
+  background: #21231c;
   font-size: 0.8rem;
   padding: 0.35rem 0.75rem;
 }
